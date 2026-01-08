@@ -37,8 +37,7 @@ Repository: https://github.com/raunaksharma6971-dot/public-health-obesity-wareho
 
 ### Telecom Customer Churn Prediction
 Repository: https://github.com/raunaksharma6971-dot/Teleco_Customer_Churn_Prediction  
-Dashboard: https://lookerstudio.google.com/reporting/03e30ce2-78fd-4d90-b077-9a17d6dda9bd
 
 ### Instacart Market Basket Analysis
 Repository: https://github.com/raunaksharma6971-dot/Instacart_Market_Basket_Analysis  
-Dashboard: https://lookerstudio.google.com/reporting/71e8535e-f2af-408a-84d9-a40ef38c1016
+
