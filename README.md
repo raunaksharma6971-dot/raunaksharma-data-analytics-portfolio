@@ -1,6 +1,6 @@
 # Raunak Sharma – Data & Business Analyst Portfolio
+I am a data analytics professional with a strong foundation in SQL, Python, and business intelligence tools, experienced in translating business requirements into analytical solutions. My work focuses on dashboard development, KPI reporting, data modeling, and end-to-end analytics workflows that support operational efficiency and informed decision-making.
 
-I am a data analytics professional with experience building analytical dashboards, SQL-based reporting, and end-to-end data projects. My work focuses on transforming raw data into actionable insights through structured analysis, visualization, and stakeholder-focused storytelling.
 
 ## Core Skills
 - SQL-based data analysis, reporting, and KPI development
