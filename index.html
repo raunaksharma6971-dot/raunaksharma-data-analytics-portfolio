@@ -416,15 +416,6 @@
   line-height: 1.45;
 }
 
-   .mini .value a{
-  color: rgba(255,255,255,0.92);
-  text-decoration: underline;
-  text-decoration-color: rgba(255,255,255,0.25);
-}
-.mini .value a:hover{
-  text-decoration-color: rgba(255,255,255,0.60);
-}
- 
   </style>
 </head>
 
@@ -488,30 +479,24 @@
           </div>
         </div>
 
-        <div class="mini-list">
+     <div class="mini-list">
+          <div class="mini">
+            <div class="label">Featured dashboards</div>
+            <div class="value">Telecom Customer Churn • Instacart Market Basket Analysis</div>
+          </div>
+          <div class="mini">
+            <div class="label">End-to-end delivery</div>
+            <div class="value">ETL pipelines • Data marts • QC checks</div>
+          </div>
+          <div class="mini">
+            <div class="label">Deployment</div>
+            <div class="value">Streamlit fraud detection app</div>
+          </div>
+        </div>
+      </div>
+    </div>   
 
-  <div class="mini">
-    <div class="label">Featured dashboards</div>
-    <div class="value">
-      <a href="#churn-project">Telecom Customer Churn</a> •
-      <a href="#instacart-project">Instacart Market Basket Analysis</a>
-    </div>
-  </div>
-
-  <div class="mini">
-    <div class="label">Featured app</div>
-    <div class="value">
-      <a href="#fraud-project">Financial Fraud Detection Platform</a>
-    </div>
-  </div>
-
-  <div class="mini">
-    <div class="label">Highlights</div>
-    <div class="value">ETL workflows • Data marts • Quality checks</div>
-  </div>
-
-</div>
-
+    
     <!-- Projects -->
     <section id="projects" class="card">
       <h2>Featured Projects</h2>
@@ -527,7 +512,7 @@
 
       <div class="grid" id="projectGrid">
 
-        <div class="proj" id="fraud-project" data-tags="ml bi">
+       <div class="proj" data-tags="ml bi">
           <img src="assets/fraud_app.png" alt="Fraud Detection App">
           <h3>Financial Fraud Detection Platform</h3>
           <p>ML-based risk scoring with a deployed Streamlit app for real-time fraud prediction.</p>
@@ -537,7 +522,7 @@
           </div>
         </div>
 
-        <div class="proj" id="churn-project" data-tags="bi ml">
+        <div class="proj" data-tags="bi ml">
           <img src="assets/churn_dashboard.png" alt="Customer Churn Dashboard">
           <h3>Telecom Customer Churn Analysis</h3>
          <p>
@@ -553,7 +538,7 @@
           </div>
         </div>
 
-       <div class="proj" id="instacart-project" data-tags="sql bi">
+       <div class="proj" data-tags="sql bi">
           <img src="assets/instacart_dashboard.png" alt="Instacart Dashboard">
           <h3>Instacart Market Basket Analysis</h3>
           <p>
